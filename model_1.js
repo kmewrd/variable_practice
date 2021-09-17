@@ -1,33 +1,33 @@
-var name = "Kim";
-var car = "Subaru";
-var pet = "dog";
+var petName = "Beta";
+var typeOfPet = "dog";
+var breed = "unknown";
 
-var numberOfPets = 1;
-var age = 27;
-var favoriteNumber = 13;
+var age = 1.5;
+var numberOfLegs = 4;
+var numberOfBeds = 2;
 
-var isHungry = true;
-var isThirsty = false;
-var isHappy = true;
+var likesTreats = true;
+var likesFrisbees = false;
+var isGood = true;
 
-var householdMembers = ["Kim", "Daniel", "Beta"];
-var fruits = ["peaches", "plums", "cherries"];
-var veggies = ["kale", "spinach", "chard"];
+var coatColors = ["black", "brown", "white"];
+var preferredToys = ["Kong", "Chuckit", "Tuffy"];
+var favoriteTreats = ["sweet potatoes", "blueberries", "peanut butter"];
 
-var myCar = {
-  make: "Subaru",
-  model: "Outback",
-  year: 2015,
+var cuteHabits = {
+  sleepsOnBack: true,
+  greeting: "crinkly ear",
+  tiltsHead: true,
 }
 
-var myPet = {
-  name: "Beta",
-  breed: "unknown",
-  isGood: true,
+var personality = {
+  cuddly: true,
+  friendly: true,
+  aggressive: false,
 }
 
-var myKitchen = {
-  color: "beige",
-  hasPantry: true,
-  hasDishwasher: true,
+var favoriteToy = {
+  color: "red",
+  style: "ball",
+  material: "rubber"
 }
