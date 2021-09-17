@@ -13,3 +13,21 @@ var isHappy = true;
 var householdMembers = ["Kim", "Daniel", "Beta"];
 var fruits = ["peaches", "plums", "cherries"];
 var veggies = ["kale", "spinach", "chard"];
+
+var myCar = {
+  make: "Subaru",
+  model: "Outback",
+  year: 2015,
+}
+
+var myPet = {
+  name: "Beta",
+  breed: "unknown",
+  isGood: true,
+}
+
+var myKitchen = {
+  color: "beige",
+  hasPantry: true,
+  hasDishwasher: true,
+}
