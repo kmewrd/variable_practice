@@ -9,3 +9,7 @@ var favoriteNumber = 13;
 var isHungry = true;
 var isThirsty = false;
 var isHappy = true;
+
+var householdMembers = ["Kim", "Daniel", "Beta"];
+var fruits = ["peaches", "plums", "cherries"];
+var veggies = ["kale", "spinach", "chard"];
